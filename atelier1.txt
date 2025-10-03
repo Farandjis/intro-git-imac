@@ -1,0 +1,17 @@
+1) man ls
+2) pwd
+3) ls
+4) cd /
+5) ls -lah
+6) whoami
+7) history
+8) Haut Haut Haut puis Entrée
+9) cat tata.txt
+10) firefox
+--> je suis sur Ubuntu
+11) mkdir toto && touch toto/toto.txt
+13) rm -r toto
+14)
+- Ctrl A : ne fait rien ??
+- Ctrl L : N'efface pas le terminal, fait juste tout remonter en haut (mais on dirait qu'il a tout effacé)
+- Ctrl E : ne fait rien ?? 

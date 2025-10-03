@@ -1,0 +1,15 @@
+1) wget "http://outofpluto.com/media/uploads/formation/shell/intro-shell.zip"
+2) unzip intro-shell.zip
+3) cd intro-shell
+4) cat *.txt > all.txt
+5) grep -IR "Hello" .
+6) grep -IR "Hello" . | wc -l
+7) python3
+   credits
+8) cat *.py | grep . | wc -l
+9) cat all.txt | uniq -d
+10) ls -lah | awk '{print $1, $9}'
+11) 
+
+à finir
+
