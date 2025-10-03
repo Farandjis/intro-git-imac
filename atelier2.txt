@@ -4,12 +4,16 @@
 4) cat *.txt > all.txt
 5) grep -IR "Hello" .
 6) grep -IR "Hello" . | wc -l
-7) python3
-   credits
+7) python3 -c "credits()"
 8) cat *.py | grep . | wc -l
 9) cat all.txt | uniq -d
 10) ls -lah | awk '{print $1, $9}'
-11) 
-
+11) find . -type f -exec ls -lhSR {} +
+12) cat aa.txt bb.txt | uniq -d
+13) find . -maxdepth 1 -type f -executable
+# trouver sur internet, maxdepth 1 pour regarder juste le répertoire courant, et non pas aussi les sous dossier. Ensuite on indique que l'on veut les fichier (type f) qui sont exécutable. Les txt sont considéré comme des fichiers pouvant être exécuter, c'est pour cela qu'on les voit comme d'autres
+14) ls -lahRs | grep " 0 "
+15) find . -mmin -1440
+# On affiche tous les fichiers modifiés sous les dernières 24h (24*60 = 1440)
 à finir
 
