@@ -15,5 +15,4 @@
 14) ls -lahRs | grep " 0 "
 15) find . -mmin -1440
 # On affiche tous les fichiers modifiés sous les dernières 24h (24*60 = 1440)
-à finir
 

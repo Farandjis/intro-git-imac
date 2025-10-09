@@ -1,0 +1,3 @@
+1) ./wcl.sh lorem.txt # Il affiche : 67 words in line 1
+2) ./intro-shell/3_de_latelier_3/script.sh
+

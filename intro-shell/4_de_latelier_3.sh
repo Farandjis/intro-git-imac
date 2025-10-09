@@ -1,0 +1,5 @@
+echo "#SYSTEM"
+echo "OS: $(lsb_release -d | tail | awk '{print $2}') $(uname -s) $(uname -i)"
+echo " "
+echo "#HARDWARE"
+echo "CPU : "
